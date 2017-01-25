@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Test.VS.GitHub.Azure", "Web.Test.VS.GitHub.Azure\Web.Test.VS.GitHub.Azure.csproj", "{5B07F2A8-5626-4A4D-BA6C-46E4CF5DCE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Test.VS.GitHub.Azure.Tests", "Web.Test.VS.GitHub.Azure.Tests\Web.Test.VS.GitHub.Azure.Tests.csproj", "{221C1D9C-942F-4A8B-A7CA-D857EBC6A9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B07F2A8-5626-4A4D-BA6C-46E4CF5DCE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B07F2A8-5626-4A4D-BA6C-46E4CF5DCE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B07F2A8-5626-4A4D-BA6C-46E4CF5DCE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B07F2A8-5626-4A4D-BA6C-46E4CF5DCE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221C1D9C-942F-4A8B-A7CA-D857EBC6A9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221C1D9C-942F-4A8B-A7CA-D857EBC6A9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221C1D9C-942F-4A8B-A7CA-D857EBC6A9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221C1D9C-942F-4A8B-A7CA-D857EBC6A9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
